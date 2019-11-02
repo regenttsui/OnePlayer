@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/capture.png</file>
+        <file>Resources/close_dock.png</file>
+        <file>Resources/mute.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/not_mute.png</file>
+        <file>Resources/open_file.png</file>
+        <file>Resources/pause.png</file>
+        <file>Resources/play.png</file>
+        <file>Resources/playlist.png</file>
+        <file>Resources/prev.png</file>
+        <file>Resources/stop.png</file>
+        <file>Resources/style.qss</file>
+        <file>Resources/undock.png</file>
+        <file>Resources/OnePlayer.png</file>
+    </qresource>
+</RCC>
